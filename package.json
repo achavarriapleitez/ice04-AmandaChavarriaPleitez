@@ -1,0 +1,23 @@
+{
+    "name": "a3-amandachavarriapleitez",
+    "description": "Assignment 3 - Persistence: Two-tier Web Application with Database, Express server, and CSS template   ===",
+    "author": "Amanda Chavarria Pleitez",
+    "scripts": {
+        "start": "node --env-file=.env server.js"
+    },
+    "dependencies": {
+        "dotenv": "^17.2.2",
+        "express": "^5.1.0",
+        "mime": "^2.6.0",
+        "mongodb": "^6.19.0",
+        "vite": "^7.1.7",
+        "vite-express": "^0.21.1"
+    },
+    "version": "1.0.0",
+    "main": "Node.js",
+    "keywords": [],
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+}
